@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707237468547",
+    "project_id": "chat-app-8684d",
+    "storage_bucket": "chat-app-8684d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707237468547:android:45b46888e0c77ba6d63eb6",
+        "android_client_info": {
+          "package_name": "com.naser.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707237468547-14091ep4dtapo9bjcspkkrigenfo4nja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2x3uljeheDJr-qdUjqAkPanJY6R-hhUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707237468547-14091ep4dtapo9bjcspkkrigenfo4nja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
